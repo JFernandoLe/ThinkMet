@@ -1,0 +1,17 @@
+# Archivos y carpetas temporales de Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosmat
+*.suo
+*.cache
+*.docstates
+
+# Archivos temporales de código e IDE
+*.log
+.DS_Store
+
+# EXCEPCIÓN: Permitir la carpeta del instalador para distribución por Git
+!installer/
+!installer/**
