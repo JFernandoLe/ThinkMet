@@ -1,0 +1,4 @@
+*.vsto binary
+*.manifest binary
+*.deploy binary
+*.dll binary
